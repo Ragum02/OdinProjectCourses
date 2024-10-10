@@ -11,5 +11,7 @@ console.log(name);
 console.log(surname);
 
 const pi = 3.14;
-pi = 10;
-console.log(pi); // (error because we can't reassign a const) //
+//pi = 10; (error because we can't reassign a const) //
+console.log(pi); 
+
+console.log((3+2) - 76 * (1 + 1));
